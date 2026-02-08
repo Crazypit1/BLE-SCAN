@@ -48,6 +48,7 @@ BLE-SCAN/
 ├── LICENSE           # MIT
 └── README.md
 ```
+для связи с автором https://t.me/+Q2HRrdfc-hpjM2Ri
 
 ## Лицензия
 
