@@ -15,7 +15,7 @@
 
 ```bash
 # Клонировать репозиторий (подставьте свой логин вместо YOUR_USERNAME)
-git clone https://github.com/YOUR_USERNAME/BLE-SCAN.git
+git clone https://github.com/BLE-SCAN/BLE-SCAN.git
 cd BLE-SCAN
 
 # Сборка
